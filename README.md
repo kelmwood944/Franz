@@ -222,4 +222,4 @@ Franz is available as a **full free version**, offering all features and updates
 Start your journey to streamlined communication today with **Franz**! Download now and enjoy the complete package for free!
 
 ---
-**Last updated:** 2026-09-29 16:11:48 UTC
+**Last updated:** 2026-09-29 21:07:37 UTC
